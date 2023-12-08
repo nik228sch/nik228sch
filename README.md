@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-<!--
+🫨🖕🫨
+<!--WTF you 
 **nik228sch/nik228sch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+telephone
 Here are some ideas to get you started:
-
+hacking 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
