@@ -161,8 +161,8 @@
             "type": "node"
         },
 
-        {"address": "
-        ",
+        {"address": 
+        
             "name": "Attach to Edge",
             "port": 9222,
             "request": "attach",
